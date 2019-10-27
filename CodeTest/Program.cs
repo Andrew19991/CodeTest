@@ -10,6 +10,8 @@ namespace CodeTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("this is a Test");
+            Console.ReadKey();
         }
     }
 }
